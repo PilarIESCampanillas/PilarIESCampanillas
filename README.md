@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAEhWchzZd8/z70AZ_K-n8hrfQVPEK0yXA/view?utm_content=DAEhWchzZd8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100">
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEhWchzZd8&#x2F;view?utm_content=DAEhWchzZd8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Purple Orange Playful &amp; Celebratory Drive-by Graduation Banner</a> de Pilar González
 <h2 align="center">Hi 👋, I'm Pilar González</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
