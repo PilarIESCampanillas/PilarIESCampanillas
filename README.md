@@ -1,15 +1,17 @@
+<img src="https://www.canva.com/design/DAEhWchzZd8/z70AZ_K-n8hrfQVPEK0yXA/view?utm_content=DAEhWchzZd8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100">
 <h2 align="center">Hi 👋, I'm Pilar González</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
 - 🔭 I’m currently working on [IES Campanillas](https://fp.iescampanillas.com/)
 
-- 📫 How to reach me **pilar.gonzalez@iescampanillas.com**
+- 📫 How to reach me by email **pilar.gonzalez@iescampanillas.com**
+- Moodle del [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
 
 <h3 align="left">Teaching now:</h3>
 <blockquote>
-<h5 align="left">1- Entornos de Desarrollo (Software Engineering - Development Environment)</h5>
-<h5 align="left">2- Lenguajes de Marcas (Markup Languages)</h5>
-<h5 align="left">3- Aplicaciones Web (Web Applications)</h5>
+<h5 align="left">1- Entornos de Desarrollo (Software Engineering - Development Environment) - 1º DAM/DAW</h5>
+<h5 align="left">2- Lenguajes de Marcas (Markup Languages) - 1º DAM</h5>
+<h5 align="left">3- Aplicaciones Web (Web Applications) - 1º SMR</h5>
 </blockquote>
 
 
