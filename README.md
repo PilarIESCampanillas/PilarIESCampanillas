@@ -1,5 +1,5 @@
-[My image](PilarIESCampanillas.github.com/img/image.jpg)
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEhWchzZd8&#x2F;view?utm_content=DAEhWchzZd8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Purple Orange Playful &amp; Celebratory Drive-by Graduation Banner</a> de Pilar González
+![banner.png](https://github.com/PilarIESCampanillas/PilarIESCampanillas/blob/main/img/banner.png)
+
 <h2 align="center">Hi 👋, I'm Pilar González</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
