@@ -1,4 +1,4 @@
-
+[My image](PilarIESCampanillas.github.com/img/image.jpg)
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEhWchzZd8&#x2F;view?utm_content=DAEhWchzZd8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Purple Orange Playful &amp; Celebratory Drive-by Graduation Banner</a> de Pilar González
 <h2 align="center">Hi 👋, I'm Pilar González</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
@@ -8,11 +8,11 @@
 - 📫 How to reach me by email **pilar.gonzalez@iescampanillas.com**
 - Moodle del [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
 
-<h3 align="left">Teaching now:</h3>
+<h3 align="left">Teaching now (2020/2021):</h3>
 <blockquote>
-<h5 align="left">1- Entornos de Desarrollo (Software Engineering - Development Environment) - 1º DAM/DAW</h5>
-<h5 align="left">2- Lenguajes de Marcas (Markup Languages) - 1º DAM</h5>
-<h5 align="left">3- Aplicaciones Web (Web Applications) - 1º SMR</h5>
+<h4 align="left">1- Entornos de Desarrollo (Software Engineering - Development Environment) - 1º DAM/DAW</h4>
+<h4 align="left">2- Lenguajes de Marcas (Markup Languages) - 1º DAM</h4>
+<h4 align="left">3- Aplicaciones Web (Web Applications) - 1º SMR</h4>
 </blockquote>
 
 
