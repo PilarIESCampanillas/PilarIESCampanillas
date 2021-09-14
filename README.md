@@ -1,12 +1,13 @@
 ![banner.png](https://github.com/PilarIESCampanillas/PilarIESCampanillas/blob/main/img/banner.png)
 
+
 <h2 align="center">Hi 👋, I'm Pilar González :woman:</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
 - :computer: I’m currently working on [IES Campanillas](https://fp.iescampanillas.com/)
 
 - 📫 How to contact me by email **pilar.gonzalez@iescampanillas.com**
-- :books: Moodle del [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
+- :books: Moodle from [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
 
 <h3 align="left">Teaching now (2020/2021):</h3>
 <blockquote>
