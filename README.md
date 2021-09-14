@@ -5,7 +5,7 @@
 
 - :computer: I’m currently working on [IES Campanillas](https://fp.iescampanillas.com/)
 
-- 📫 How to reach me by email **pilar.gonzalez@iescampanillas.com**
+- 📫 How to contact me by email **pilar.gonzalez@iescampanillas.com**
 - :books: Moodle del [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
 
 <h3 align="left">Teaching now (2020/2021):</h3>
