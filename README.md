@@ -9,7 +9,7 @@
 - 📫 How to contact me by email **pilar.gonzalez@iescampanillas.com**
 - :books: Moodle from [Departamento de Informática del IES Campanillas](https://iescampanillas.com/aulavirtual) 
 
-<h3 align="left">Teaching now (2020/2021):</h3>
+<h3 align="left">Teaching now (2021/2022):</h3>
 <blockquote>
 <h4 align="left">1- Entornos de Desarrollo (Software Engineering - Development Environment) - 1º DAM/DAW</h4>
 <h4 align="left">2- Lenguajes de Marcas (Markup Languages) - 1º DAM</h4>
